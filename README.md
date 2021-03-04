@@ -1,4 +1,4 @@
-#This is the Single Page Application project containing the Okta Sign In Widget embedded in the code.
+# This is the Single Page Application project containing the Okta Sign In Widget embedded in the code.
 
 Install dependencies:
 
